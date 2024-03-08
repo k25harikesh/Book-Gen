@@ -73,7 +73,6 @@ def generate_from_my_data(uploaded_file, num_tokens, similarity):
 
 
 def stop_generation():
-  # Placeholder function for stopping the generation process
   st.write("Stopping generation...")
 
 
